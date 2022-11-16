@@ -3,6 +3,6 @@
 
 HTTP is everywhere! Every website we visit is ran on HTTP server <br />
 **How HTTP servers are build?** and **How HTTP servers work?** <br />
-watch this video to know how: https://www.youtube.com/watch?v=9J1nJOivdyw
-HTTP is the foundation of data communication for the World Wide Web.,br />
+watch this video to know how: https://www.youtube.com/watch?v=9J1nJOivdyw <br />
+HTTP is the foundation of data communication for the World Wide Web. <br />
 With this project, we build a webserver from scratch, which can be tested with a real browser.
