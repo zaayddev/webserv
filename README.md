@@ -11,3 +11,4 @@ a great documentations:<br />
 - https://beej.us/guide/bgnet/html/#client-server-background<br />
 - https://www.notion.so/Documentation-Webserv-320727979ffd4176a7dd5ba41aaadf46#725a44ff1e7b490da7c6699e1d0c58c9<br />
 - https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa<br />
+- https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7<br />
